@@ -1,0 +1,32 @@
+{
+    "token": "",
+    "prefix": "!",
+    "idBot": "971409693245317170",
+    "owner": "928040533258010685",
+    "genGuild": "971801788787343421",
+    "stockChannel": "971801866121904139",
+    "genChannel": "971801846450638929",
+    "genCooldown": "3600000",
+    "cooldown": {
+        "thirtyMinute": "1800000",
+        "fifteenMinute": "900000",
+        "fiveMinute": "300000",
+        "fiveSecond": "5000"
+    },
+    "roleCooldown": {
+        "thirtyMinute": "972131128611852308",
+        "fifteenMinute": "972131094394716241",
+        "fiveMinute": "972131072160718888",
+        "fiveSecond": "972131615574720553"
+    },
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
