@@ -1,13 +1,6 @@
 # GenBot (Simple)
-_(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
-
-Un petit code de bot discord js en v13 avec un handler organisé.
-
-## Pour commencer
-
-
+Un petit code de bot discord js en v13 avec un handler organisé. Peut également servir de model pour créer un bot discord.js v13.
 
 ### Pré-requis
 
