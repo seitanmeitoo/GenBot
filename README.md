@@ -2,6 +2,8 @@
 
 Un petit code de bot discord js en v13 avec un handler organisé. Peut également servir de model pour créer un bot discord.js v13.
 
+**Bien que cette version du code reste fonctionnelle, discord a modifier leur librairie pour n'inclure uniquement des commandes slash `/` autrement dit, la partie du code avec les commandes préfix ne marcheront plus.*
+
 ### Pré-requis
 
 - Avoir des connaissances de code en javascript et discord.js
